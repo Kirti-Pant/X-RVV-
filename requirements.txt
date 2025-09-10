@@ -1,0 +1,15 @@
+tensorflow
+keras
+opencv-python
+matplotlib
+pandas
+numpy
+scikit-learn
+seaborn
+transformers
+tf-keras-vis
+timm
+segmentation-models
+tensorflow_addons
+torch
+tqdm
