@@ -70,11 +70,6 @@ Trained models are saved in Keras format (`.h5` or `.keras`) and loaded for infe
 - Hybrid model combining ResNet, VGG, and ViT with unified classification and segmentation outputs.
 - Detailed evaluation metrics and visualization code.
 
-## Citation
-If using this code, please cite the associated research paper:
-
-> K Pant, PKD Pramanik, A Saha, P Arya (2025). X-RVV: A Clinically Explainable Hybrid CNN-Transformer Model for Efficient Brain Tumor Segmentation Using MRI. *The Visual Computer, Springer, 2025. [SCIE, IF 2.9, SJR 0.637, Q2]*.
-
 ## Contact
 For questions or collaboration, contact Kirti Pant at [pantkirti577@gmail.com].
 
